@@ -1,3 +1,3 @@
-# terraform-create-networ
-Practice creating a netwrok and resources  
+# terraform-create-network
+Practice creating a network and resources  
 Files created from GCP Professional Architect training
